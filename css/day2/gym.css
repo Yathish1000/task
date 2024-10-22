@@ -1,0 +1,82 @@
+
+div.h1{
+    background-image: url(https://png.pngtree.com/background/20230516/original/pngtree-large-room-full-of-equipment-in-a-gym-picture-image_2611111.jpg);
+    background-size: 25%;
+    width: auto     ;
+}
+
+h1{
+    text-align: center;
+    color:white;
+    font-size: 50px;
+    text-transform: uppercase;
+    width: auto;
+    
+}
+.p1{
+    text-align: right;
+    color: aliceblue;
+    font: bolder;
+    font-size:30px ;
+    text-transform: uppercase;
+    text-shadow: 4px 2px 4px black;
+    
+}
+.p2{
+    text-align: center;
+    color: aliceblue;
+    font: bolder;
+    font-size: 30px;
+    text-transform: lowercase;
+    text-shadow: 4px 2px 4px black;
+}
+#p3{
+    text-align: left;
+    color: aliceblue;
+    font: bolder;
+    font-size: 30px;
+    text-transform:capitalize;
+    text-shadow: 4px 2px 4px black;
+
+}
+.mp{
+    width: auto;
+    background-color: aqua;
+    color: black;
+    text-align: center ;
+    font-size: 30px;
+    text-transform: capitalize;
+}
+.box{
+    width: auto;
+    height: 100%;
+    background-color: rgb(162, 126, 78);
+    padding: 50px ;
+    background: linear-gradient(to right bottom,rgb(200, 30, 21),yellow,rgb(25, 234, 29),blue,pink);
+}
+.box1{
+    width: 300px;
+    height: auto;
+    background-color: beige;
+    padding: 10px 0px;
+    border: 3px solid rgb(0, 255, 4);
+}
+.box2{
+    height:auto;
+    width: 300px;
+    background-color: beige;
+    padding: 10px 0px;
+    margin-top: 25px;
+   border: 3px solid red;
+}
+.box3{
+    width: 300px;
+    height: auto;
+    background-color: beige;
+    padding: 10px 0px;
+    margin-top: 25px;
+    border: 3px solid yellow;
+}
+h2{
+    padding: 10px 0px;
+}
